@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.vscode/
+dataset/
+binary_dataset/
+disease/
+external_test/
+model.h5
+*_backup.h5
